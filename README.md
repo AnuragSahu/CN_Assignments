@@ -19,3 +19,4 @@
     => ./client 
 
 - make sure that both of them are in different folders and i different terminals
+*you can copy the client folder and repeat the steps again for client for showcase of multiple clients
